@@ -49,18 +49,20 @@ The difficulties mentioned for both algorithms are quite similar. One of the mai
 
 ### Member contribution to the whole project:
 Anna
--Project proposal
--Algorithm 1 - problem formulation, algorithm analysis, implementation, results, unexpected cases/difficulties
--Algorithm 2 - implementation, results, unexpected cases/difficulties
--Video
+- Project proposal
+- Algorithm 1 : problem formulation, algorithm analysis, implementation, results, unexpected cases/difficulties
+- Algorithm 2 : implementation, results, unexpected cases/difficulties
+- Video
+  
 Erfan 
--Project proposal
--Algorithm 1 - problem formulation, pseudo-code, implementation, results, unexpected cases/difficulties
--Algorithm 2 - algorithm analysis, results
--Plots
+- Project proposal
+- Algorithm 1 : problem formulation, pseudo-code, implementation, results, unexpected cases/difficulties
+- Algorithm 2 : algorithm analysis, results
+- Plots
+  
 Sahil
--Algorithm 2 - problem formulation, pseudo-code 
--Comparison summary
+- Algorithm 2 : problem formulation, pseudo-code 
+- Comparison summary
 
 
 
