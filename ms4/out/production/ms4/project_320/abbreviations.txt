@@ -1,0 +1,346 @@
+AEM, Adobe Experience Manager
+ AEO, American Eagle Outfitters 
+ AFA, Air Force Academy 
+ AFB, Air Force Base 
+ AFI, Air Force Instruction 
+ AFM, Air Force Manual 
+ AFO, Air Force One 
+ AFP, Agence France-Presse 
+ AFS, American Field Service 
+ AG, Attorney General 
+ AGM, annual general meeting 
+ AGP, Accelerated Graphics Port 
+ AH, Anno Hegirae 
+ AHS, American Horror Story 
+ AI, artificial intelligence 
+ AIA, American Institute of Architects 
+ AICPA, American Institute of Certified Public Accountants 
+ AIDS, Acquired Immune Deficiency Syndrome 
+ AIG, American International Group 
+ AIM, AOL Instant Messenger 
+ AIP, Artificial Intelligence Platform 
+ AIR, All India Radio 
+ AIT, American Institute in Taiwan 
+ AKA, also known as 
+ AL, Alabama 
+ ALA, American Library Association 
+ ALJ, administrative law judge 
+ AM, ante meridiem 
+ AMA, American Medical Association 
+ AMD, Advanced Micro Devices 
+ AMEX, American Stock Exchange 
+ AMF, Amplitude Modulation Frequency 
+ AMG, Affalterbach, Germany 
+ AMOLED, Active-Matrix Organic Light-Emitting Diode 
+ AMR, Adaptive Multi-Rate 
+ AMS, Amsterdam Schiphol Airport 
+ AMT, alternative minimum tax 
+ AN Airman's Note 
+ ANPR, automatic number plate recognition 
+ ANSI, American National Standards Institute 
+ ANTM, America's Next Top Model 
+ AO, Area of Operation 
+ AOC, area of concern 
+ AOD, Angle of Departure 
+ AOE, Area of Effect 
+ AOR, Area of Responsibility 
+ AP, Associated Press 
+ APA, American Psychological Association 
+ APC, American Power Conversion 
+ APL, A Programming Language 
+ APN, Access Point Name 
+ APO, Army Post Office 
+ APP, application 
+ APR, Annual Percentage Rate 
+ APS, American Physical Society 
+ APT, Advanced Persistent Threat 
+ APU, Auxiliary Power Unit 
+ AQ, Air Quality 
+ AR, Augmented Reality 
+ ARC, American Red Cross 
+ AFAIK, as far as I know 
+ AFK, away from keyboard 
+ AMA, ask me anything 
+ ASL, age/sex/location 
+ ATB, all the best 
+ ATM, automated teller machine 
+ ATP, according to plan 
+ AFAIR, as far as I remember 
+ ADN, any day now 
+ AOP, area of practice 
+ AOD, all of the above 
+ AOM, age of majority 
+ APAC, Asia-Pacific 
+ AQL, acceptable quality level 
+ AR, augmented reality 
+ ARP, address resolution protocol 
+ ASAP, as soon as possible 
+ ASCII, American Standard Code for Information Interchange 
+ ASMR, autonomous sensory meridian response 
+ AST, Atlantic Standard Time 
+ ATA, Actual Time of Arrival 
+ ATD, Actual Time of Departure 
+ AUV, autonomous underwater vehicle 
+ AV, audio/video 
+ AVG, average 
+ AWS, Amazon Web Services 
+ A&E, arts and entertainment 
+ A&P, anatomy and physiology 
+ A&F, Abercrombie & Fitch 
+ A&M, arts and music 
+ A&W, A&W Restaurants 
+ AA, Alcoholics Anonymous 
+ AAA, American Automobile Association 
+ AAC, Advanced Audio Coding 
+ AARP, American Association of Retired Persons 
+ AB, Alberta 
+ ABC, American Broadcasting Company 
+ ABM, account-based marketing 
+ ABO, blood type system 
+ ABS, anti-lock braking system 
+ AC, alternating current 
+ ACA, Affordable Care Act 
+ ACC, Atlantic Coast Conference 
+ ACD, automatic call distributor 
+ ACDC, Alternating Current/Direct Current 
+ ACE, Angiotensin-Converting Enzyme 
+ ACID, Atomicity, Consistency, Isolation, Durability 
+ ACL, access control list 
+ ACM, Association for Computing Machinery 
+ ACME, A Company that Makes Everything 
+ ACORN, Association of Community Organizations for Reform Now 
+ ACP, Automatic Colt Pistol 
+ ACR, American College of Radiology 
+ ACS, American Cancer Society 
+ ACT, American College Testing 
+ AD, Anno Domini 
+ ADA, Americans with Disabilities Act 
+ ADHD, Attention Deficit Hyperactivity Disorder 
+ ADI, Analog Devices, Inc. 
+
+ BA, Bachelor of Arts 
+ BAA, British Airport Authority 
+ BAC, Blood Alcohol Content 
+ BAE, British Aerospace 
+ BAL, Basic Assembly Language 
+ BAT, Basic Attention Token 
+ BB, BlackBerry 
+ BBB, Better Business Bureau 
+ BBC, British Broadcasting Corporation 
+ BBM, BlackBerry Messenger 
+ BC, Before Christ 
+ BCG, Boston Consulting Group 
+ BCL, Base Class Library 
+ BCS, British Computer Society 
+ BD, Birthdate 
+ BDC, Business Development Company 
+ BDS, Bureau of Diplomatic Security 
+ BE, Bachelor of Education 
+ BFA, Bachelor of Fine Arts 
+ BFF, Best Friends Forever 
+ BFS, Breadth-First Search 
+ BGA, Ball Grid Array 
+ BHP, Brake Horsepower 
+ BI, Business Intelligence 
+ BIM, Building Information Modeling 
+ BIO, Basic Input/Output 
+ BIS, Bank for International Settlements 
+ BIT, Binary Digit 
+ BLOG, Weblog 
+ BLT, Bacon, Lettuce, and Tomato 
+ BMW, Bavarian Motor Works 
+ BNP, British National Party 
+ BOGO, Buy One, Get One 
+ BOM, Bill of Materials 
+ BPA, Business Process Automation 
+ BPM, Business Process Management 
+ BPO, Business Process Outsourcing 
+ BPS, Bits Per Second 
+ BRB, Be Right Back 
+ BRI, Basic Rate Interface 
+ BRS, Broadcasting Satellite 
+ BS, Bachelor of Science 
+ BSA, Boy Scouts of America 
+ BSOD, Blue Screen of Death 
+ BST, British Summer Time 
+ BT, British Telecommunications 
+ BTO, Build to Order 
+ BTS, Bangtan Sonyeondan 
+ BTU, British Thermal Unit 
+ BV, Bouvet Island 
+ BVD, Bovine Viral Diarrhea 
+ BYOD, Bring Your Own Device 
+
+ CA, California 
+ CAD, Computer-Aided Design 
+ CAM, Computer-Aided Manufacturing 
+ CAPTCHA, Completely Automated Public Turing Test To Tell Computers and Humans Apart 
+ CAT, Computer-Aided Translation 
+ CBA, Commonwealth Bank of Australia 
+ CC, Carbon Copy 
+ CCC, Chinese Communist Party 
+ CD, Compact Disc 
+ CEO, Chief Executive Officer 
+ CERN, European Organization for Nuclear Research 
+ CF, Compact Flash 
+ CGI, Common Gateway Interface 
+ CI, Continuous Integration 
+ CIO, Chief Information Officer 
+ CIS, Commonwealth of Independent States 
+ CIT, Citation Index 
+ CJ, Chief Justice 
+ CLI, Command Line Interface 
+ CMA, Certified Management Accountant 
+ CMOS, Complementary Metal-Oxide Semiconductor 
+ CMS, Content Management System 
+ CNC, Computer Numerical Control 
+ CO, Carbon Monoxide 
+ COCOMO, Constructive Cost Model 
+ COO, Chief Operating Officer 
+ COTS, Commercial Off-The-Shelf 
+ CPU, Central Processing Unit 
+ CR, Credit 
+ CRM, Customer Relationship Management 
+ CRT, Cathode Ray Tube 
+ CSS, Cascading Style Sheets 
+ CSV, Comma-Separated Values 
+ CT, Computed Tomography 
+ CTO, Chief Technology Officer 
+ CU, See You 
+ CV, Curriculum Vitae 
+ CVD, Chemical Vapor Deposition 
+ CXML, Commerce XML 
+ DAO, Decentralized Autonomous Organization 
+ DAT, Digital Audio Tape 
+ DB, Database 
+ DBA, Database Administrator 
+ DC, Direct Current 
+ DDR, Double Data Rate 
+ DECT, Digital Enhanced Cordless Telecommunications 
+ DFS, Distributed File System 
+ DHTML, Dynamic HTML 
+ DIMM, Dual In-Line Memory Module 
+ DIN, Deutsches Institut für Normung 
+ DIP, Dual In-Line Package 
+ DLP, Digital Light Processing 
+ DMA, Direct Memory Access 
+ DNS, Domain Name System 
+ DOA, Dead On Arrival 
+ DOM, Document Object Model 
+ DOS, Disk Operating System 
+ DPI, Dots Per Inch 
+ DRAM, Dynamic Random Access Memory 
+ DSL, Digital Subscriber Line 
+ DSP, Digital Signal Processing 
+ DVD, Digital Versatile Disc 
+ DVI, Digital Visual Interface 
+ DWG, Drawing 
+ DXF, Drawing Exchange Format 
+ DZ, Dzongkha (Bhutan) 
+ EOD, End of Day 
+ ERP, Enterprise Resource Planning 
+ ESB, Enterprise Service Bus 
+ EC2, Elastic Compute Cloud 
+ ECS, Elastic Container Service 
+ EFS, Elastic File System 
+ ELB, Elastic Load Balancer 
+ EJB, Enterprise JavaBeans 
+ EKG, Electrocardiogram 
+ EMR, Electronic Medical Record 
+ EOF, End of File 
+ EOL, End of Line 
+ EPROM, Erasable Programmable Read-Only Memory 
+ EULA, End User License Agreement 
+ EVDO, Evolution-Data Optimized 
+ EVPN, Ethernet Virtual Private Network 
+ EXE, Executable 
+ EIDE, Enhanced Integrated Drive Electronics 
+ EAI, Enterprise Application Integration 
+ EDA, Electronic Design Automation 
+ EDI, Electronic Data Interchange 
+ EFT, Electronic Funds Transfer 
+ EGP, Exterior Gateway Protocol 
+ EJB, Enterprise JavaBeans 
+ EOD, End Of Day 
+ EOS, End Of Support 
+ EOL, End Of Life 
+ EOT, End Of Transmission 
+ ERP, Enterprise Resource Planning 
+ ESB, Enterprise Service Bus 
+ ETL, Extract, Transform, Load 
+ EULA, End User License Agreement 
+ EWS, Exchange Web Services 
+ FAQ, Frequently Asked Questions 
+ FIFO, First In, First Out 
+ FTP, File Transfer Protocol 
+ FPGA, Field-Programmable Gate Array 
+ FHD, Full High Definition 
+ FHD, Full HD 
+ FLOPS, Floating Point Operations Per Second 
+ FMC, Fixed Mobile Convergence 
+ FOMO, Fear Of Missing Out 
+ FSF, Free Software Foundation 
+ FUD, Fear, Uncertainty, and Doubt 
+ FWIW, For What It's Worth 
+ FLOSS, Free/Libre/Open-Source Software 
+ FMCG, Fast-Moving Consumer Goods 
+ FMEA, Failure Mode and Effects Analysis 
+ FUPA, Fat Upper Pubic Area 
+ FBO, For Business Only 
+ FM, Frequency Modulation 
+ FMEA, Failure Modes and Effects Analysis 
+ FPS, Frames Per Second 
+ FQDN, Fully Qualified Domain Name 
+ FUD, Fear Uncertainty and Doubt 
+ FYI, For Your Information 
+ GPS, Global Positioning System 
+ GUI, Graphical User Interface 
+ GIF, Graphics Interchange Format 
+ GPU, Graphics Processing Unit 
+ GSM, Global System for Mobile Communications 
+ Gbps, Gigabits per second 
+ GHz, Gigahertz 
+ GB, Gigabyte 
+ GIGO, Garbage In Garbage Out 
+ GIGO, Garbage In Gospel Out 
+ GNOME, GNU Network Object Model Environment 
+ GNU, GNU's Not Unix 
+ GPL, General Public License 
+ GUI, Graphical User Interface 
+ GBit, Gigabit 
+ GID, Group Identifier 
+ GPIO, General Purpose Input/Output 
+ GPRS, General Packet Radio Service 
+ GPT, GUID Partition Table 
+ GUI, Graphical User Interface 
+ GIS, Geographic Information System 
+ GMT, Greenwich Mean Time 
+ GPG, GNU Privacy Guard 
+ GNU, GNU's Not Unix 
+ GPIO, General Purpose Input/Output 
+ GPL, General Public License 
+ GUI, Graphical User Interface 
+ HTML, HyperText Markup Language 
+ HTTP, HyperText Transfer Protocol 
+ HTTPS, HyperText Transfer Protocol Secure 
+ HDD, Hard Disk Drive 
+ HDMI, High-Definition Multimedia Interface 
+ HDTV, High-Definition Television 
+ HPC, High-Performance Computing 
+ HSDPA, High-Speed Downlink Packet Access 
+ HSUPA, High-Speed Uplink Packet Access 
+ HTML5, HyperText Markup Language version 5 
+ H.264, Advanced Video Coding (AVC) 
+ H.265, High Efficiency Video Coding (HEVC) 
+ HTTP/2, HyperText Transfer Protocol version 2 
+ HPC, High-Performance Computing 
+ HCI, Human-Computer Interaction 
+ HID, Human Interface Device 
+ HTTP/3, HyperText Transfer Protocol version 3 
+ HDFS, Hadoop Distributed File System 
+ HBase, Hadoop Database 
+ HTML5, HyperText Markup Language version 5 
+ HTML, HyperText Markup Language 
+ HTTP, HyperText Transfer Protocol 
+ HTTPS, HyperText Transfer Protocol Secure 
+ I/O, Input/Output 
