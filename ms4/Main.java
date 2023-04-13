@@ -13,46 +13,17 @@ public class Main {
 
         long startTime = System.currentTimeMillis();
 
+
+
+
+
         // Read in corpus file
         String corpusFilePath = "corpus.txt";
         String corpusOfText = readFile(corpusFilePath);
-//        File path = new File("corpus.txt");
-//        FileWriter writer = new FileWriter(path);
-//
-//
-//        //Creating a File object for directory
-//        File directoryPath = new File("C:\\Users\\moham\\Cosc320\\Keyword replacement in a corpus\\test2");
-//        //List of all files and directories
-//        File filesList[] = directoryPath.listFiles();
-//        System.out.println("List of files and directories in the specified directory:");
-//        for(File file : filesList)
-//        {
-//            BufferedReader br = new BufferedReader(new FileReader(file));
-//
-//            String st;
-//            while ((st = br.readLine()) != null) {
-//                try {
-//                    String[] columns = st.split(",");
-//                    String forthColumn = columns[3];
-//
-//                    String[] words = forthColumn.split("\\s+");
-//                    for (int i = 0; i < words.length; i++) {
-//                        String word = words[i].toLowerCase();
-//                        List<Integer> positions = new ArrayList<>();
-//                        positions.add(i);
-//                        System.out.print(word + " ");
-//                        writer.write(word + " ");
-//
-//                    }
-//                    System.out.println();
-//                    writer.write("\n");
-//
-//                } catch (ArrayIndexOutOfBoundsException e) {
-//                    continue;
-//                }
-//
-//            }
-//        }
+
+
+        writInFile();
+
 
         // Read in abbreviations file
         String abbreviationsFilePath = "abbreviations.txt";
@@ -103,6 +74,47 @@ public class Main {
             System.err.println("Error reading file: " + e.getMessage());
             System.exit(1);
             return null;
+        }
+    }
+
+
+    public static void writInFile() throws IOException {
+
+        File path = new File("corpus.txt");
+        FileWriter writer = new FileWriter(path);
+
+        //Creating a File object for directory
+        File directoryPath = new File("C:\\Users\\moham\\Cosc320\\Keyword replacement in a corpus\\test2");
+        //List of all files and directories
+        File filesList[] = directoryPath.listFiles();
+        System.out.println("List of files and directories in the specified directory:");
+        for(File file : filesList)
+        {
+            BufferedReader br = new BufferedReader(new FileReader(file));
+
+            String st;
+            while ((st = br.readLine()) != null) {
+                try {
+                    String[] columns = st.split(",");
+                    String forthColumn = columns[3];
+
+                    String[] words = forthColumn.split("\\s+");
+                    for (int i = 0; i < words.length; i++) {
+                        String word = words[i].toLowerCase();
+                        List<Integer> positions = new ArrayList<>();
+                        positions.add(i);
+                        System.out.print(word + " ");
+                        writer.write(word + " ");
+
+                    }
+                    System.out.println();
+                    writer.write("\n");
+
+                } catch (ArrayIndexOutOfBoundsException e) {
+                    continue;
+                }
+
+            }
         }
     }
 }
