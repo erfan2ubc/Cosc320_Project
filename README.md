@@ -30,24 +30,38 @@ Algorithm 1 had an important finding, i.e, storing the words in a tree structure
 Another key insight is that the time complexity of the algorithm is O(n), where n is the number of nodes in the branch. This is due to the use of a for loop in the parallelTraverse function, which iterates through the nodes until either the end of the branch is reached or the word is found and replaced. However, the Insert method of the AbbTree class has a time complexity of O(1), which does not significantly affect the overall time complexity.
 In terms of space complexity, the algorithm uses a linked list data structure to store the nodes in the branch, with each node occupying a fixed amount of space. Therefore, the overall space complexity is also O(n).
 Overall, this algorithm provides a robust and efficient solution for replacing abbreviations in a large volume of text, with a focus on accuracy and speed.
-![](Aspose.Words.5b456001-7ecf-4f3f-9392-fb48add30b10.001.png)
+![](https://github.com/erfan2ubc/Cosc320_Project/blob/main/plots/algorithm1.png)
 
 Algorithm 2 can be analyzed for correctness and time complexity as well. The correctness of the algorithm can be proven by demonstrating that it produces the correct output for all possible inputs. In this case, the algorithm is expected to replace all the abbreviations in the given corpus of text with their respective words or phrases. To prove correctness, one can show that the algorithm searches for each abbreviation in the corpus and replaces it with the correct word or phrase. This ensures that the algorithm produces the expected output for all possible inputs.
 To analyze the time complexity of the algorithm, one can count the number of operations performed by the algorithm. The algorithm performs preprocessing operations to create an index of the corpus of text and store the list of abbreviations. Then, it iterates through the abbreviations in the list and searches for each one in the index. For each abbreviation found, a string-matching algorithm is used to find the closest match. Finally, the abbreviation is replaced with the appropriate word or phrase in the corpus.
 The time complexity of the algorithm is O(n*m),* where n is the number of abbreviations in the list and m is the length of the corpus. This is because, in the worst-case scenario, the algorithm will have to iterate through each abbreviation in the list and search for it in the corpus, which will require O(nm) operations.
 The space complexity of the algorithm is O(n+m) as it requires space to store the list of abbreviations, the index, and the corpus of text.
 In conclusion, the given algorithm is a fast and efficient way to replace abbreviations in a corpus of text. The algorithm's correctness can be proven by demonstrating that it produces the correct output for all possible inputs, and its time complexity can be analyzed by counting the number of operations performed by the algorithm, which is O(n\*m). The space complexity of the algorithm is O(n+m).
-![](Aspose.Words.5b456001-7ecf-4f3f-9392-fb48add30b10.002.png)
+![](https://github.com/erfan2ubc/Cosc320_Project/blob/main/plots/algorithm2.png)
 
 In comparison, the algorithm analyses of both algorithms (1 & 2) highlight the importance of analyzing the correctness and efficiency of algorithms. In both cases, correctness is established by ensuring that the algorithm produces the correct output for all possible inputs. In the case of the sorting algorithm, the time complexity is used to establish its efficiency, while in the case of the abbreviation replacement algorithm, both time and space complexity are used. The running time of the sorting algorithm is established by analyzing the number of operations required to sort an array of n elements, while the time complexity of the abbreviation replacement algorithm is determined by the number of operations required to process a list of n abbreviations and a corpus of text with m words. Additionally, the space complexity of the abbreviation replacement algorithm is also analyzed, which is not required in the case of the sorting algorithm. Overall, the algorithm analyses of both topics provide valuable insights into the performance of algorithms and highlight the importance of choosing the right algorithm for a given task based on its efficiency and correctness.
 Here is a plot comparing the running times of both algorithms-
-![](Aspose.Words.5b456001-7ecf-4f3f-9392-fb48add30b10.003.png)
+![](https://cdn.discordapp.com/attachments/1066461807155359776/1095863990095200416/Screenshot_2023-04-12_171207.png)
 
 ### Unexpected Cases/Difficulties
 
 The difficulties mentioned for both algorithms are quite similar. One of the main challenges is dealing with abbreviations that have multiple meanings, which requires some form of context-aware technique to determine the correct meaning. Another challenge is dealing with homophones, where the algorithm needs to use a dictionary or other linguistic data to determine the correct word. These difficulties are related to the ambiguity and complexity of human language, which can pose significant challenges in the development of algorithms that process natural language. Overall, both algorithms require careful consideration and handling of these kinds of unexpected cases and difficulties to achieve accurate and reliable results.
 
+### Member contribution to the whole project:
+Anna
+-Project proposal
+-Algorithm 1 - problem formulation, algorithm analysis, implementation, results, unexpected cases/difficulties
+-Algorithm 2 - implementation, results, unexpected cases/difficulties
+-Video
+Erfan 
+-Project proposal
+-Algorithm 1 - problem formulation, pseudo-code, implementation, results, unexpected cases/difficulties
+-Algorithm 2 - algorithm analysis, results
+-Plots
+Sahil
+-Algorithm 2 - problem formulation, pseudo-code 
+-Comparison summary
 
 
 
-
+[Link to dataset used](https://drive.google.com/file/d/1wZcJatxJ1zzH7Yut7anq1cZToyKcVChM/view?usp=share_link)
